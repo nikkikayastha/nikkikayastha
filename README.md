@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikki Kayastha</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://nikkikayastha.github.io/Portfolio/Projects](https://nikissss.github.io/Portfolio/#projects)
+- 👨‍💻 All of my projects are available at [https://nikkikayastha.github.io/Portfolio/Projects](https://nikkikayastha.github.io/Portfolio/#projects)
 
 - 📫 How to reach me **nikkikayastha0@gmail.com**
 
